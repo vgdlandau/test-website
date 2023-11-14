@@ -11,7 +11,7 @@ title: Home
 ![profile image](https://upload.wikimedia.org/wikipedia/commons/c/c2/UNESCO_World_Heritage_Cultural_Sites_by_Country.png)
 -->
 
-<center><img src="./assets/img/UNESCO_World_Heritage_Cultural_Sites_by_Country.png" alt="Sample Image" height="250" style="padding:20px;"/></center>
+<center><img src="./assets/UNESCO_World_Heritage_Cultural_Sites_by_Country.png" alt="Sample Image" height="250" style="padding:20px;"/></center>
 
 
 Welcome to the website! This template was created using the [Minima](https://github.com/jekyll/minima) theme.
