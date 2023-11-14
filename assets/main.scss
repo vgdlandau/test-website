@@ -1,0 +1,62 @@
+---
+---
+
+/* load _sass/minima.scss */
+@import "{{ site.theme }}";
+
+/* Put any custom CSS here */
+
+h1, h2, h3 {
+  color: teal;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  font-weight: 200;
+  letter-spacing: .1em;
+  margin: 20px;
+}
+
+h2 {
+  font-size: .5em;
+  margin: 20px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 2em;
+  font-weight: 200;
+  letter-spacing: .1em;
+}
+
+figure {
+  float: left;
+  margin: 15px;
+}
+
+figcaption {
+  padding-top: 10px;
+}
+
+.wrapper {
+  max-width: calc(850px - (5px * 2));
+}
+
+/* HEADER */
+
+.site-header {
+  max-width: none !important;
+}
+
+.site-title, .site-title:visited {
+    color: #424242;
+}
+
+.site-title {
+  font-weight: 200;
+}
+
+.site-nav .page-link {
+  color: grey;
+}
